@@ -14,15 +14,15 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴍᴇɴɪ ǫʀᴜᴘᴀ ᴇʟᴀᴠᴇ ᴇᴛ ❱ ➕", url=f"https://t.me/RuyaMusicBot?startgroup=true"
+                        "➕ ❰ ᴍᴇɴɪ ǫʀᴜᴘᴀ ᴇʟᴀᴠᴇ ᴇᴛ ❱ ➕", url=f"https://t.me/JasmineMusicXBot?startgroup=true"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔊 ᴀsɪsᴛᴀɴ", url="https://t.me/RuyaMusicAsistant"
+                        "🔊 ᴀsɪsᴛᴀɴ", url="https://t.me/JasmineAsistan"
                     ),
                     InlineKeyboardButton(
-                        "📚  sᴜᴘᴘᴏʀᴛ", url="https://t.me/UlviSup"
+                        "📚  sᴜᴘᴘᴏʀᴛ", url="https://t.me/JasmineSup"
                     )
                 ],
                 [
@@ -30,7 +30,7 @@ async def start(_, message: Message):
                         "🧩 ᴇᴍʀʟᴇʀ" , callback_data= "cbbilgi"
                     ),
                     InlineKeyboardButton(
-                        "📚 ᴋᴀɴᴀʟ", url=f"https://t.me/UlviProject"
+                        "📚 ᴋᴀɴᴀʟ", url=f"https://t.me/Alay57Chat"
                     )
                 ]
                 
@@ -56,7 +56,7 @@ async def bilgi(_, message: Message):
                          "ɢᴇʀɪ 🔄", callback_data="cbstart")
                  ],[
                      InlineKeyboardButton(
-                         "ᴄʀᴇᴀᴛᴏʀ🇦🇿", url="https://t.me/BrendUIvi")
+                         "ᴄʀᴇᴀᴛᴏʀ🇦🇿", url="https://t.me/Jasmine0wner")
                  ]
              ]
          )
@@ -82,7 +82,7 @@ async def cbbilgi(_, query: CallbackQuery):
         ],
         [
           InlineKeyboardButton(
-            "ᴄʀᴇᴀᴛᴏʀ🇦🇿", url="https://t.me/BrendUIvi")
+            "ᴄʀᴇᴀᴛᴏʀ🇦🇿", url="https://t.me/Jasmine0wner")
         ]
       ]
      ))
@@ -96,7 +96,7 @@ async def herkes(_, query: CallbackQuery):
              [
                  [
                      InlineKeyboardButton(
-                         "ᴄʀᴇᴀᴛᴏʀ🇦🇿", url="https://t.me/BrendUIvi")
+                         "ᴄʀᴇᴀᴛᴏʀ🇦🇿", url="https://t.me/Jasmine0wner")
                  ],
                  [
                      InlineKeyboardButton(
@@ -114,7 +114,7 @@ async def admin(_, query: CallbackQuery):
              [
                  [
                      InlineKeyboardButton(
-                         "ᴄʀᴇᴀᴛᴏʀ🇦🇿", url="https://t.me/BrendUIvi")
+                         "ᴄʀᴇᴀᴛᴏʀ🇦🇿", url="https://t.me/Jasmine0wner")
                  ],
                  [
                      InlineKeyboardButton(
@@ -132,15 +132,15 @@ async def cbstart(_, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴍᴇɴɪ ǫʀᴜᴘᴀ ᴇʟᴀᴠᴇ ᴇʀ ❱ ➕", url=f"https://t.me/RuyaMusicBot?startgroup=true"
+                        "➕ ❰ ᴍᴇɴɪ ǫʀᴜᴘᴀ ᴇʟᴀᴠᴇ ᴇʀ ❱ ➕", url=f"https://t.me/JasmineMusicXBot?startgroup=true"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔊 ᴀsɪsᴛᴀɴ", url="https://t.me/RuyaMusicAsistant"
+                        "🔊 ᴀsɪsᴛᴀɴ", url="https://t.me/JasmineAsistan"
                     ),
                     InlineKeyboardButton(
-                        "📚 sᴜᴘᴘᴏʀᴛ", url="https://t.me/UlviSup"
+                        "📚 sᴜᴘᴘᴏʀᴛ", url="https://t.me/JasmineSup"
                     )
                 ],
                 [
@@ -148,7 +148,7 @@ async def cbstart(_, query: CallbackQuery):
                         "🧩 ᴇᴍʀʟᴇʀ" , callback_data= "cbbilgi"
                     ),
                     InlineKeyboardButton(
-                        "📚 ᴋᴀɴᴀʟ", url=f"https://t.me/UlviProject"
+                        "📚 ᴋᴀɴᴀʟ", url=f"https://t.me/Alay57Chat"
                     )
                 ]
                 
